@@ -30,3 +30,27 @@ body {
     width: 250px;
     border-radius: 10px;
 }
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h1 {
+    font-size: 40px;
+}
+
+.destaques {
+    padding: 40px;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+.cta {
+    text-align: center;
+    padding: 60px;
+    background: #c0392b;
+}
