@@ -6,4 +6,4 @@
     <h1>Sobre Nós</h1>
     <p>Somos uma pizzaria apaixonada por qualidade e sabor.
     Trabalhamos com ingredientes frescos e receitas especiais.</p>
-</section>
+</section> 

@@ -28,7 +28,7 @@
             <p>Clássica e irresistível</p>
         </div>
 
-        <div class="card">
+        <div class="card"> 
             <h3>Pizza Frango com Catupiry</h3>
             <p>Cremosa e deliciosa</p>
         </div>
@@ -44,8 +44,21 @@
 <section class="cta">
     <h2>Bateu a fome?</h2>
     <p>Peça agora mesmo pelo WhatsApp</p>
-    <a href="#" class="btn">📲 Pedir Agora</a>
+   <a href="https://wa.me" onclick="carregarWidget()" class="btn">📲 Pedir Agora</a>
+
 </section>
+
+<script type="text/javascript">
+              window.onload = function(){
+              (function(d, script) {
+              script = d.createElement('script');
+              script.type = 'text/javascript';
+              script.async = true;
+              script.src = 'https://w.app/widget-v1/tmakz2.js';
+              d.getElementsByTagName('head')[0].appendChild(script);
+              }(document));
+              };
+              </script>
 
 </body>
 </html>
