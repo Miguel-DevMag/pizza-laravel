@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="{{ asset('css/style.css') }}">
-
 <header class="header">
     <h1 class="logo">🍕 Pizza Suprema</h1>
     <nav>

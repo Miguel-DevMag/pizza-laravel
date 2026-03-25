@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="{{ asset('css/style.css') }}">
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -48,7 +46,7 @@
 
 </section>
 
-<script type="text/javascript">
+<script type="text/javascript"> 
               window.onload = function(){
               (function(d, script) {
               script = d.createElement('script');
